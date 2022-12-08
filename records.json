@@ -1,0 +1,293 @@
+[
+    // cateory Action & Adventure
+    {
+        "id":1,
+        "name": "Avengers: Endgame",
+        "category_id": 1,
+        "year":"2019",
+        "rating":"8.4",
+        "cast":"Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+        "image":"https://i.ibb.co/XDp7733/avenger-endgame.jpg",
+        "about":"After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe."
+    },
+
+    {
+        "id":2,
+        "name": "Captain America: Civil War",
+        "category_id": 1,
+        "year":"2016",
+        "rating":"7.8",
+        "cast":"Chris Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan",
+        "image":"https://i.ibb.co/cbCZQj8/Captain-America-civil-war.jpg",
+        "about":"Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man."
+    },
+
+    {
+        "id":3,
+        "name": "Major (Hindi)",
+        "category_id": 1,
+        "year":"2022",
+        "rating":" 8.2",
+        "cast":"Adivi Sesh,Prakash Raj,Sobhita Dhulipala",
+        "image":"https://i.ibb.co/85BGGM1/Major-Hindi.jpg",
+        "about":"This biopic follows the life of Indian Army officer Major Sandeep Unnikrishnan, from his childhood to his heroic actions during the 2008 Mumbai attacks"
+    },
+
+    {
+        "id":4,
+        "name": "Avengers: Infinity War",
+        "category_id": 1,
+        "year":"2018",
+        "rating":" 8.4",
+        "cast":"Stars: Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans",
+        "image":"https://i.ibb.co/JB9psTz/Avengers-Infinity-War.jpg",
+        "about":"The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe."
+    },
+
+    {
+        "id":5,
+        "name": "RRR (Hindi)",
+        "category_id": 1,
+        "year":"2022",
+        "rating":"8.0",
+        "cast":"NTR Jr.,Ram Charan,Ajay Devgn",
+        "image":"https://i.ibb.co/zGG8sWP/RRR-Hindi.jpg",
+        "about":"A fearless warrior on a perilous mission comes face to face with a steely cop serving British forces in this epic saga set in pre-independent India."
+    },
+
+
+
+    // cateory Drama  
+    {
+        "id":1,
+        "name": "Goodbye",
+        "category_id": 2,
+        "year":"2012",
+        "rating":"8.1",
+        "cast":"Amitabh Bachchan,Rashmika Mandanna,Neena Gupta",
+        "image":"https://i.ibb.co/K97hRQb/Goodbye.jpg",
+        "about":"After a mother's sudden death, chaos and grief collide when four adult siblings return to their traditional father's home for the funeral."
+    },
+
+    {
+        "id":2,
+        "name": "Gangubai Kathiawadi",
+        "category_id": 2,
+        "year":"2022",
+        "rating":"7.0",
+        "cast":"Alia Bhatt,Vijay Raaz,Seema Pahwa",
+        "image":"https://i.ibb.co/RQ6MSdt/Gangubai-Kathiawadi.jpg",
+        "about":"Duped and sold to a brothel, a young woman fearlessly reclaims her power, using underworld connections to preside over the world she was once a pawn in."
+    },
+
+    {
+        "id":3,
+        "name": "Drishyam",
+        "category_id": 2,
+        "year":"2015",
+        "rating":"8.2",
+        "cast":"Ajay Devgn,Shriya Saran,Tabu",
+        "image":"https://i.ibb.co/FV10yT0/Drishyam.jpg",
+        "about":"An unexceptional man becomes a murder suspect when the son of a high-ranking police official who harassed his daughter goes missing."
+    },
+
+    {
+        "id":4,
+        "name": "Mimi",
+        "category_id": 2,
+        "year":"2021",
+        "rating":"7.9",
+        "cast":"Kriti Sanon,Pankaj Tripathi,Sai Tamhankar",
+        "image":"https://i.ibb.co/gDkpHTs/Mimi.jpg",
+        "about":"An aspiring actress in a small town agrees to bear a child for a visiting couple seeking a surrogate mother, but her experience takes unexpected turns."
+    },
+
+    {
+        "id":5,
+        "name": "Dear Zindagi",
+        "category_id": 2,
+        "year":"2007",
+        "rating":"7.4",
+        "cast":"Alia Bhatt,Shah Rukh Khan,Ira Dubey",
+        "image":"https://i.ibb.co/28rFZ8k/Dear-Zindagi.jpg",
+        "about":"A young cinematographer with a bright professional future and a lack of empathy learns the importance of balancing ambition with humanity."
+    },
+  
+    
+
+
+    // cateory Comedy  
+    {
+        "id":1,
+        "name": "Phir Hera Pheri",
+        "category_id": 3,
+        "year":"2006",
+        "rating":"7.1",
+        "cast":"Akshay Kumar,Sunil Shetty,Paresh Rawal",
+        "image":"https://i.ibb.co/twGj1jp/Phir-Hera-Pheri.jpg",
+        "about":"Driven by greed, three rich friends seek to double their wealth and find themselves indebted to a ruthless gangster."
+    },
+
+    {
+        "id":2,
+        "name": "Welcome",
+        "category_id": 3,
+        "year":"2013",
+        "rating":"7.0",
+        "cast":"Anil Kapoor,Nana Patekar,Akshay Kumar",
+        "image":"https://i.ibb.co/kKmCBCh/Welcome.jpg",
+        "about":"In this silly Bollywood farce, the brothers of a Mafia princess set out on a comical mission to marry their sister into a respectable family."
+    },
+
+    {
+        "id":3,
+        "name": "Bareilly Ki Barfi",
+        "category_id": 3,
+        "year":"2017",
+        "rating":"7.5",
+        "cast":"Ayushmann Khurrana,Kriti Sanon,Rajkummar Rao",
+        "image":"https://i.ibb.co/Z6yZHc4/Bareilly-Ki-Barfi.jpg",
+        "about":"When she falls in love with the author of a novel she adores, bohemian Bitti enlists the help of a local printer to find her new object of affection."
+    },
+
+    {
+        "id":4,
+        "name": "Luka Chuppi",
+        "category_id": 3,
+        "year":"2019",
+        "rating":"6.3",
+        "cast":"Kartik Aaryan,Kriti Sanon,Pankaj Tripathi",
+        "image":"https://i.ibb.co/6bJSchD/Luka-Chuppi.jpg",
+        "about":"Pretending to marry in order to cohabitate, a small-town couple lands in endless awkward situations to hide the truth from their orthodox families."
+    },
+
+    {
+        "id":5,
+        "name": "Chennai Express",
+        "category_id": 3,
+        "year":"2016",
+        "rating":"6.0",
+        "cast":"Shah Rukh Khan,Deepika Padukone,Nikitin Dheer",
+        "image":"https://i.ibb.co/k4kRVs9/Chennai-Express.jpg",
+        "about":"What could have been a sad journey turns joyful for Rahul when he falls in love with a woman en route to submerging his grandfather's ashes."
+    },
+  
+
+    // cateory Children & Family 
+    {
+        "id":1,
+        "name": "Stuart Little 2",
+        "category_id": 4,
+        "year":"2002",
+        "rating":"7.0",
+        "cast":"Michael J. Fox,Geena Davis,Hugh Laurie",
+        "image":"https://i.ibb.co/W0RjdVL/Stuart-Little-2.jpg",
+        "about":"Trouble's in the air for spirited city mouse Stuart and family cat Snowbell when a new canary friend flies into danger with a ruthless falcon."
+    },
+
+    {
+        "id":2,
+        "name": "Tom and Jerry",
+        "category_id": 4,
+        "year":"2021",
+        "rating":"7.0",
+        "cast":"Chloë Grace Moretz,Michael Peña,Colin Jost",
+        "image":"https://i.ibb.co/FHWBynT/Tom-and-Jerry.jpg",
+        "about":"The classic cat-and-mouse duo creates chaos at a swanky NYC hotel when alley cat Tom is hired to get rid of scheming mouse Jerry before a VIP wedding."
+    },
+
+    {
+        "id":3,
+        "name": "The Angry Birds Movie 2",
+        "category_id": 4,
+        "year":"2019",
+        "rating":"6.4",
+        "cast":"Jason Sudeikis,Rachel Bloom,Leslie Jones",
+        "image":"https://i.ibb.co/v3Rb88T/The-Angry-Birds-Movie-2.jpg",
+        "about":"Enemies turn into frenemies when the Pigs call for a truce with the Birds to unite against a formidable new foe that threatening all of their homes."
+    },
+
+    {
+        "id":4,
+        "name": "Chillar Party",
+        "category_id": 4,
+        "year":"2011",
+        "rating":"7.2",
+        "cast":" Irfan Khan,Raju,Sanath Menon",
+        "image":"https://i.ibb.co/LYJ5Mhd/Chillar-Party.jpg",
+        "about":"Eight feisty boys befriend young drifter Fatka. When a mean politician threatens Fatka's way of life, the boys band together in honor of their pal."
+    },
+
+    {
+        "id":5,
+        "name": "Motu Patlu in the City of Gold",
+        "category_id": 4,
+        "year":"2018",
+        "rating":"7.9",
+        "cast":"Saurav Chakraborty,Ganesh Diweker,Arpita Vora",
+        "image":"https://i.ibb.co/cCCyFt5/Motu-Patlu-in-the-City-of-Gold.jpg",
+        "about":"Defeated by the strong yet naive Motu in a race, an evil horseback rider challenges him to a more dangerous mission: finding a lost city of treasure!"
+    },
+
+
+
+    // cateory Horror 
+    {
+        "id":1,
+        "name": "Bhool Bhulaiyaa 2",
+        "category_id": 5,
+        "year":"2022",
+        "rating":"5.7",
+        "cast":"Tabu,Kartik Aaryan,Kiara Advani",
+        "image":"https://i.ibb.co/CtSnzT8/Bhool-Bhulaiyaa-2.jpg",
+        "about":"When strangers Reet and Ruhan cross paths, their journey leads to an abandoned mansion and a dreaded spirit who has been trapped for 18 years."
+    },
+
+    {
+        "id":2,
+        "name": "Stree",
+        "category_id": 5,
+        "year":"2018",
+        "rating":"7.5",
+        "cast":"Rajkummar Rao,Shraddha Kapoor,Pankaj Tripathi",
+        "image":"https://i.ibb.co/SQgsPJ7/Stree.jpg",
+        "about":"Once a year, men in a small town fear abduction by an eccentric female spirit. A young tailor dismisses the idea of the ghost -- until he falls for her."
+    },
+
+    {
+        "id":3,
+        "name": "Insidious: Chapter 2",
+        "category_id": 5,
+        "year":"2013",
+        "rating":"6.5",
+        "cast":"Patrick Wilson,Rose Byrne,Ty Simpkins",
+        "image":"https://i.ibb.co/JKNBJcd/Insidious-Chapter-2.jpg",
+        "about":"While the Lambert family struggles to overcome their son's recent battle with evil spirits, father Josh must confront his own horrifying childhood."
+    },
+
+    {
+        "id":4,
+        "name": "The Nun",
+        "category_id": 5,
+        "year":"2018",
+        "rating":"5.3",
+        "cast":"Taissa Farmiga,Demián Bichir,Jonas Bloquet",
+        "image":"https://i.ibb.co/z5YBFxh/The-Nun.jpg",
+        "about":"A young nun travels with a priest to Romania to uncover the secrets behind a malevolent spirit haunting a sacred site."
+    },
+
+    {
+        "id":5,
+        "name": "Don't Breathe 2",
+        "category_id": 5,
+        "year":"2021",
+        "rating":"6.0",
+        "cast":"Stephen Lang,Brendan Sexton III,Madelyn Grace",
+        "image":"https://i.ibb.co/jZdY7DZ/Don-t-Breathe-2.jpg",
+        "about":"A self-reliant blind veteran trains his adopted daughter to face any danger, but they're both ambushed when a vengeful stranger arrives from the past."
+    }
+
+
+
+
+]

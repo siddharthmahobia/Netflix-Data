@@ -1,0 +1,34 @@
+{
+    "category":[
+        {
+            "id":1,
+            "name":"Action & Adventure"
+            
+        },
+
+        {
+            "id":2,
+            "name":"Drama"
+            
+        },
+
+        
+        {
+            "id":3,
+            "name":"Comedy"
+            
+        },
+
+        {
+            "id":4,
+            "name":"Children & Family"
+            
+        },
+
+        {
+            "id":5,
+            "name":"Horror"
+            
+        }
+    ]
+}
